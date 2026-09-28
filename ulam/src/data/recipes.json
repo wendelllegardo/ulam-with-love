@@ -1,0 +1,1906 @@
+[
+ {
+  "id": "ginisang-sayote",
+  "name": "Ginisang Sayote",
+  "category": "Vegetable",
+  "description": "Tender sayote sautéed with garlic, onion and tomato in just a touch of oil.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Sayote",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 60,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 90,
+   "protein": 2,
+   "carbohydrates": 13,
+   "fat": 5,
+   "sodium": 220
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-pechay",
+  "name": "Ginisang Pechay",
+  "category": "Vegetable",
+  "description": "Crisp-tender pechay with garlic and tomato. Ready in ten minutes.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Pechay",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 40,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 85,
+   "protein": 3,
+   "carbohydrates": 8,
+   "fat": 5,
+   "sodium": 240
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-repolyo",
+  "name": "Ginisang Repolyo",
+  "category": "Vegetable",
+  "description": "Sweet cabbage and carrots, lightly sautéed.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Cabbage",
+    "amount": 130,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Carrots",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 50,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 95,
+   "protein": 2,
+   "carbohydrates": 12,
+   "fat": 5,
+   "sodium": 230
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-ampalaya",
+  "name": "Ginisang Ampalaya",
+  "category": "Vegetable",
+  "description": "Ampalaya with tomato and onion. Slice thin to soften the bitterness.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Ampalaya",
+    "amount": 120,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 50,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 50,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 90,
+   "protein": 3,
+   "carbohydrates": 9,
+   "fat": 5,
+   "sodium": 230
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-kalabasa",
+  "name": "Ginisang Kalabasa",
+  "category": "Vegetable",
+  "description": "Sweet kalabasa with string beans, gently simmered.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Kalabasa (squash)",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "String beans",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 80,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 110,
+   "protein": 3,
+   "carbohydrates": 18,
+   "fat": 5,
+   "sodium": 225
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-upo",
+  "name": "Ginisang Upo",
+  "category": "Vegetable",
+  "description": "Soft, juicy upo with garlic, onion and tomato.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Upo",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 40,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 85,
+   "protein": 2,
+   "carbohydrates": 11,
+   "fat": 5,
+   "sodium": 220
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-patola",
+  "name": "Ginisang Patola",
+  "category": "Vegetable",
+  "description": "Light and silky patola sautéed with tomato.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Patola",
+    "amount": 130,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 40,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 85,
+   "protein": 2,
+   "carbohydrates": 10,
+   "fat": 5,
+   "sodium": 220
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "tortang-talong",
+  "name": "Tortang Talong",
+  "category": "Egg",
+  "description": "Smoky charred eggplant in a fluffy egg coating, pan-cooked with a little oil.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Eggplant",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Egg",
+    "amount": 1,
+    "unit": "pc",
+    "group": "Protein"
+   },
+   {
+    "name": "Onion",
+    "amount": 15,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Tomato",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 150,
+   "protein": 8,
+   "carbohydrates": 10,
+   "fat": 9,
+   "sodium": 210
+  },
+  "oil": 5,
+  "instructions": [
+   "Char the eggplant over a flame, or roast at 200°C for 20 minutes, until soft. Peel it, keeping the stem.",
+   "Flatten the flesh gently with a fork.",
+   "Beat the egg with the chopped onion and salt.",
+   "Dip the eggplant in the egg. Cook in a non-stick pan brushed with {oil} of oil (or air-fry at 180°C for 6–8 minutes), flipping once, until set.",
+   "Serve warm with sliced fresh tomato."
+  ],
+  "tags": [
+   "egg",
+   "saute",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "low-oil-tortang-talong",
+  "name": "Low-oil Tortang Talong",
+  "category": "Egg",
+  "description": "The same comfort torta, baked or air-fried with barely any oil.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Eggplant",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Egg",
+    "amount": 1,
+    "unit": "pc",
+    "group": "Protein"
+   },
+   {
+    "name": "Onion",
+    "amount": 15,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Tomato",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.4,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 125,
+   "protein": 7,
+   "carbohydrates": 10,
+   "fat": 6,
+   "sodium": 200
+  },
+  "oil": 2,
+  "instructions": [
+   "Char the eggplant over a flame, or roast at 200°C for 20 minutes, until soft. Peel it, keeping the stem.",
+   "Flatten the flesh gently with a fork.",
+   "Beat the egg with the chopped onion and salt.",
+   "Dip the eggplant in the egg. Cook in a non-stick pan brushed with {oil} of oil (or air-fry at 180°C for 6–8 minutes), flipping once, until set.",
+   "Serve warm with sliced fresh tomato."
+  ],
+  "tags": [
+   "egg",
+   "bake",
+   "airfry",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "grilled-eggplant-tomato-onion",
+  "name": "Grilled Eggplant with Tomato and Onion",
+  "category": "Vegetable",
+  "description": "Grilled eggplant topped with fresh tomato, onion and calamansi.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Eggplant",
+    "amount": 150,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Onion",
+    "amount": 30,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Calamansi juice",
+    "amount": 10,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.3,
+    "unit": "g",
+    "group": "Pantry"
+   },
+   {
+    "name": "Black pepper",
+    "amount": 0.3,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 80,
+   "protein": 2,
+   "carbohydrates": 14,
+   "fat": 2,
+   "sodium": 150
+  },
+  "oil": 2,
+  "instructions": [
+   "Pat the main ingredient dry. Mix with the calamansi, pepper and minced garlic.",
+   "Lightly brush the grill pan or the food with {oil} of oil.",
+   "Grill over medium heat 4–6 minutes per side until cooked through and lightly charred.",
+   "Slice the tomato and onion and serve fresh on the side, with rice."
+  ],
+  "tags": [
+   "grill",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "pinakbet-style-vegetables",
+  "name": "Pinakbet-style Vegetables",
+  "category": "Vegetable",
+  "description": "Squash, eggplant, ampalaya, okra and beans in a light tomato broth.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Kalabasa (squash)",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Eggplant",
+    "amount": 50,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ampalaya",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "String beans",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Okra",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 15,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 60,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 105,
+   "protein": 3,
+   "carbohydrates": 17,
+   "fat": 5,
+   "sodium": 240
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "vegetable",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "chicken-tinola",
+  "name": "Chicken Tinola",
+  "category": "Chicken",
+  "description": "Ginger-scented chicken soup with sayote and malunggay.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Sayote",
+    "amount": 100,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Malunggay leaves",
+    "amount": 15,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ginger",
+    "amount": 10,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 300,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 165,
+   "protein": 19,
+   "carbohydrates": 10,
+   "fat": 5,
+   "sodium": 300
+  },
+  "oil": 3,
+  "instructions": [
+   "Prep all ingredients: slice, cube or mince as needed.",
+   "Heat {oil} of oil in a pot and sauté garlic, onion and ginger until fragrant.",
+   "Add the protein or beans and stir for 2–3 minutes.",
+   "Pour in {water} of water and bring to a boil. Lower the heat and simmer 15–20 minutes until everything is soft.",
+   "Add the leafy greens for the last 2 minutes. Season lightly and serve hot."
+  ],
+  "tags": [
+   "soup",
+   "boil",
+   "chicken",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "chicken-with-sayote",
+  "name": "Chicken with Sayote",
+  "category": "Chicken",
+  "description": "Simple stewed chicken and sayote in its own light broth.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Sayote",
+    "amount": 120,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ginger",
+    "amount": 5,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 150,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 160,
+   "protein": 19,
+   "carbohydrates": 10,
+   "fat": 5,
+   "sodium": 310
+  },
+  "oil": 3,
+  "instructions": [
+   "Cut the protein into small pieces and prep the vegetables and aromatics.",
+   "Heat {oil} of oil in a non-stick pot. Sauté garlic, onion and ginger until fragrant.",
+   "Add the protein and cook 3 minutes until it turns opaque.",
+   "Pour in {water} of water, add the vegetables, cover and simmer 12–15 minutes until tender.",
+   "Season lightly, taste, and serve with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "chicken",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "chicken-with-cabbage",
+  "name": "Chicken with Cabbage",
+  "category": "Chicken",
+  "description": "Tender chicken with cabbage and carrots, lightly sautéed and simmered.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Cabbage",
+    "amount": 120,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Carrots",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ginger",
+    "amount": 5,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 100,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 165,
+   "protein": 19,
+   "carbohydrates": 10,
+   "fat": 5,
+   "sodium": 300
+  },
+  "oil": 3,
+  "instructions": [
+   "Cut the protein into small pieces and prep the vegetables and aromatics.",
+   "Heat {oil} of oil in a non-stick pot. Sauté garlic, onion and ginger until fragrant.",
+   "Add the protein and cook 3 minutes until it turns opaque.",
+   "Pour in {water} of water, add the vegetables, cover and simmer 12–15 minutes until tender.",
+   "Season lightly, taste, and serve with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "chicken",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "reduced-sodium-chicken-adobo",
+  "name": "Reduced-sodium Chicken Adobo",
+  "category": "Chicken",
+  "description": "Classic adobo flavor, with just a little low-sodium soy sauce and more vinegar and garlic.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Garlic",
+    "amount": 5,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Vinegar",
+    "amount": 20,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Low-sodium soy sauce",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Bay leaf",
+    "amount": 1,
+    "unit": "pc",
+    "group": "Pantry"
+   },
+   {
+    "name": "Whole peppercorns",
+    "amount": 1,
+    "unit": "g",
+    "group": "Pantry"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 100,
+    "unit": "ml",
+    "group": "Hidden"
+   }
+  ],
+  "nutrition": {
+   "calories": 175,
+   "protein": 19,
+   "carbohydrates": 4,
+   "fat": 8,
+   "sodium": 340
+  },
+  "oil": 3,
+  "instructions": [
+   "Combine chicken, garlic, onion, vinegar, low-sodium soy sauce, pepper and bay leaf. Marinate 15 minutes.",
+   "Heat {oil} of oil and lightly sear the chicken.",
+   "Add the marinade and {water} of water. Bring to a boil without stirring for 2 minutes, then simmer 20 minutes.",
+   "Reduce the sauce slightly, taste, and serve with rice."
+  ],
+  "tags": [
+   "saute",
+   "chicken",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "chicken-afritada-style",
+  "name": "Chicken Afritada-style with Minimal Oil",
+  "category": "Chicken",
+  "description": "Tomato-based chicken stew with potato, carrots and bell pepper.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Chicken breast",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Tomato",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Potato",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Carrots",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Bell pepper",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 120,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 210,
+   "protein": 20,
+   "carbohydrates": 20,
+   "fat": 5,
+   "sodium": 310
+  },
+  "oil": 3,
+  "instructions": [
+   "Cut the protein into small pieces and prep the vegetables and aromatics.",
+   "Heat {oil} of oil in a non-stick pot. Sauté garlic, onion and ginger until fragrant.",
+   "Add the protein and cook 3 minutes until it turns opaque.",
+   "Pour in {water} of water, add the vegetables, cover and simmer 12–15 minutes until tender.",
+   "Season lightly, taste, and serve with rice."
+  ],
+  "tags": [
+   "saute",
+   "chicken",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "steamed-fish-with-ginger",
+  "name": "Steamed Fish with Ginger",
+  "category": "Fish",
+  "description": "Delicate white fish steamed with ginger, onion and tomato.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Fish fillet",
+    "amount": 90,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Ginger",
+    "amount": 10,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Calamansi juice",
+    "amount": 10,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 130,
+   "protein": 19,
+   "carbohydrates": 4,
+   "fat": 4,
+   "sodium": 190
+  },
+  "oil": 2,
+  "instructions": [
+   "Slice the ginger, onion and vegetables. Place them on a heatproof plate with the fish.",
+   "Drizzle with {oil} of oil, the calamansi and the salt.",
+   "Steam over boiling water 10–12 minutes until the fish flakes easily.",
+   "Serve hot with the pan juices and rice."
+  ],
+  "tags": [
+   "steam",
+   "fish",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "grilled-fish-calamansi",
+  "name": "Grilled Fish with Calamansi",
+  "category": "Fish",
+  "description": "Fish grilled with calamansi and garlic, served with fresh tomato and onion.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Fish fillet",
+    "amount": 90,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Calamansi juice",
+    "amount": 15,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Black pepper",
+    "amount": 0.3,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 135,
+   "protein": 19,
+   "carbohydrates": 4,
+   "fat": 4,
+   "sodium": 150
+  },
+  "oil": 2,
+  "instructions": [
+   "Pat the main ingredient dry. Mix with the calamansi, pepper and minced garlic.",
+   "Lightly brush the grill pan or the food with {oil} of oil.",
+   "Grill over medium heat 4–6 minutes per side until cooked through and lightly charred.",
+   "Slice the tomato and onion and serve fresh on the side, with rice."
+  ],
+  "tags": [
+   "grill",
+   "fish",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "fish-tomato-onion",
+  "name": "Fish with Tomato and Onion",
+  "category": "Fish",
+  "description": "Fish gently simmered with lots of tomato and onion.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Fish fillet",
+    "amount": 90,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Tomato",
+    "amount": 80,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Onion",
+    "amount": 30,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Ginger",
+    "amount": 5,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 60,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 150,
+   "protein": 19,
+   "carbohydrates": 6,
+   "fat": 5,
+   "sodium": 220
+  },
+  "oil": 3,
+  "instructions": [
+   "Cut the protein into small pieces and prep the vegetables and aromatics.",
+   "Heat {oil} of oil in a non-stick pot. Sauté garlic, onion and ginger until fragrant.",
+   "Add the protein and cook 3 minutes until it turns opaque.",
+   "Pour in {water} of water, add the vegetables, cover and simmer 12–15 minutes until tender.",
+   "Season lightly, taste, and serve with rice."
+  ],
+  "tags": [
+   "saute",
+   "fish",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "steamed-fish-with-vegetables",
+  "name": "Steamed Fish with Vegetables",
+  "category": "Fish",
+  "description": "A one-plate steamed dinner of fish, carrots and cabbage.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Fish fillet",
+    "amount": 90,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Carrots",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cabbage",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ginger",
+    "amount": 8,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 15,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Calamansi juice",
+    "amount": 8,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 145,
+   "protein": 20,
+   "carbohydrates": 9,
+   "fat": 4,
+   "sodium": 230
+  },
+  "oil": 2,
+  "instructions": [
+   "Slice the ginger, onion and vegetables. Place them on a heatproof plate with the fish.",
+   "Drizzle with {oil} of oil, the calamansi and the salt.",
+   "Steam over boiling water 10–12 minutes until the fish flakes easily.",
+   "Serve hot with the pan juices and rice."
+  ],
+  "tags": [
+   "steam",
+   "fish",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "tofu-mixed-vegetables",
+  "name": "Tofu with Mixed Vegetables",
+  "category": "Tofu",
+  "description": "Soft tofu with colorful vegetables in a light garlicky sauce.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Firm tofu",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Carrots",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cabbage",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "String beans",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Low-sodium soy sauce",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 60,
+    "unit": "ml",
+    "group": "Hidden"
+   }
+  ],
+  "nutrition": {
+   "calories": 155,
+   "protein": 9,
+   "carbohydrates": 12,
+   "fat": 8,
+   "sodium": 220
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "tofu",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "ginisang-tofu-vegetables",
+  "name": "Ginisang Tofu with Vegetables",
+  "category": "Tofu",
+  "description": "Golden ginisa-style tofu with pechay and tomato.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Firm tofu",
+    "amount": 80,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Pechay",
+    "amount": 80,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 5,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 50,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.5,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 150,
+   "protein": 9,
+   "carbohydrates": 8,
+   "fat": 8,
+   "sodium": 200
+  },
+  "oil": 5,
+  "instructions": [
+   "Wash and cut the vegetables into bite-size pieces. Mince the garlic; slice the onion and tomato.",
+   "Heat {oil} of oil in a non-stick pan over medium heat.",
+   "Sauté the garlic, onion and tomato for 2 minutes until soft.",
+   "Add the main vegetables and {water} of water. Cover and simmer 8–10 minutes until tender.",
+   "Season with the salt and a pinch of pepper. Taste, then serve warm with rice."
+  ],
+  "tags": [
+   "stir-fry",
+   "saute",
+   "tofu",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "monggo-with-vegetables",
+  "name": "Monggo with Vegetables",
+  "category": "Soup",
+  "description": "Warm monggo stew with kalabasa and leafy greens.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Mung beans (dry)",
+    "amount": 40,
+    "unit": "g",
+    "group": "Protein"
+   },
+   {
+    "name": "Kalabasa (squash)",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Malunggay leaves",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Tomato",
+    "amount": 30,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Ginger",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 3,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 300,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 190,
+   "protein": 11,
+   "carbohydrates": 30,
+   "fat": 3,
+   "sodium": 260
+  },
+  "oil": 3,
+  "instructions": [
+   "Prep all ingredients: slice, cube or mince as needed.",
+   "Heat {oil} of oil in a pot and sauté garlic, onion and ginger until fragrant.",
+   "Add the protein or beans and stir for 2–3 minutes.",
+   "Pour in {water} of water and bring to a boil. Lower the heat and simmer 15–20 minutes until everything is soft.",
+   "Add the leafy greens for the last 2 minutes. Season lightly and serve hot."
+  ],
+  "tags": [
+   "soup",
+   "boil",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ },
+ {
+  "id": "vegetable-soup",
+  "name": "Vegetable Soup",
+  "category": "Soup",
+  "description": "A light, comforting soup of potato, chayote, carrots and cabbage.",
+  "servings": 1,
+  "ingredients": [
+   {
+    "name": "Potato",
+    "amount": 50,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Sayote",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Carrots",
+    "amount": 40,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Cabbage",
+    "amount": 60,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Celery",
+    "amount": 10,
+    "unit": "g",
+    "group": "Vegetables"
+   },
+   {
+    "name": "Garlic",
+    "amount": 3,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Onion",
+    "amount": 20,
+    "unit": "g",
+    "group": "Aromatics"
+   },
+   {
+    "name": "Cooking oil",
+    "amount": 2,
+    "unit": "ml",
+    "group": "Pantry"
+   },
+   {
+    "name": "Water",
+    "amount": 350,
+    "unit": "ml",
+    "group": "Hidden"
+   },
+   {
+    "name": "Salt",
+    "amount": 0.8,
+    "unit": "g",
+    "group": "Pantry"
+   }
+  ],
+  "nutrition": {
+   "calories": 95,
+   "protein": 3,
+   "carbohydrates": 20,
+   "fat": 2,
+   "sodium": 260
+  },
+  "oil": 2,
+  "instructions": [
+   "Cube the potato, chayote and carrots; shred the cabbage; slice the celery.",
+   "Heat {oil} of oil, sauté garlic and onion for 1 minute.",
+   "Add the potato, chayote, carrots and {water} of water. Boil, then simmer 12 minutes.",
+   "Add the cabbage and celery; cook 5 more minutes. Season lightly and serve hot."
+  ],
+  "tags": [
+   "soup",
+   "boil",
+   "low-sodium",
+   "lower-protein",
+   "low-oil"
+  ]
+ }
+]
