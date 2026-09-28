@@ -3,8 +3,8 @@ import recipes from './data/recipes.json';
 import { GROUPS, fmt, aggregate, matches, makePlan, pickReplacement, load, save } from './lib.js';
 
 const byId = Object.fromEntries(recipes.map((r) => [r.id, r]));
-const EMO = { Vegetable: '🥬', Chicken: '🍗', Fish: '🐟', Tofu: '🫘', Egg: '🍳', Soup: '🍲', Beef: '🥩' };
-const CATS = ['Vegetable', 'Chicken', 'Fish', 'Beef', 'Tofu', 'Egg', 'Soup', 'Stir-fry'].filter((c) => recipes.some((r) => r.tags.includes(c.toLowerCase())));
+const EMO = { Vegetable: '🥬', Chicken: '🍗', Fish: '🐟', Tofu: '🫘', Egg: '🍳', Soup: '🍲', Beef: '🥩', Salad: '🥗', Pasta: '🍝', Rice: '🍚', Noodles: '🍜', 'Stir-fry': '🥘' };
+const CATS = ['Vegetable', 'Chicken', 'Fish', 'Beef', 'Tofu', 'Egg', 'Soup', 'Stir-fry', 'Salad', 'Pasta', 'Rice', 'Noodles'].filter((c) => recipes.some((r) => r.tags.includes(c.toLowerCase())));
 const METHODS = [['Steam', 'steam'], ['Grill', 'grill'], ['Bake', 'bake'], ['Air Fry', 'airfry'], ['Boil', 'boil'], ['Sauté', 'saute']];
 const DEF = { days: 7, people: 1, f: { sodium: true, protein: true, oil: true }, cats: [], methods: [], plan: [], extras: [], checked: {} };
 const DISCLAIMER = 'Nutrition values are estimates. If you are following a medically prescribed diet, please verify ingredients, portions, and sodium/protein targets with your healthcare professional.';
