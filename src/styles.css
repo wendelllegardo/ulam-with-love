@@ -63,3 +63,4 @@ table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:9px 4px;
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 @media print{.hdr,.nav,.noprint,.toast{display:none!important}body{background:#fff;padding:0}.card{box-shadow:none;border:0;break-inside:avoid}}
+.serv{display:flex;flex-wrap:wrap;gap:10px}.hi{margin:.2em 0;font-weight:800;color:var(--sage-d)}.note{font-style:italic;color:var(--rose);max-width:34ch;margin:14px auto 0}.ctr{text-align:center}
