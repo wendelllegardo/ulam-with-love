@@ -24,8 +24,7 @@ export function aggregate(entries, byId) {
 }
 export function matches(r, s) {
   const t = r.tags;
-  return (!s.f.sodium || t.includes('low-sodium')) && (!s.f.protein || t.includes('lower-protein')) && (!s.f.oil || t.includes('low-oil')) &&
-    (!s.cats.length || s.cats.some((c) => t.includes(c))) && (!s.methods.length || s.methods.some((c) => t.includes(c)));
+  return (!s.cats.length || s.cats.some((c) => t.includes(c))) && (!s.methods.length || s.methods.some((c) => t.includes(c)));
 }
 export const shuffle = (a) => { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
 // n unique recipes when the pool allows; otherwise reshuffles and repeats, never back-to-back.
